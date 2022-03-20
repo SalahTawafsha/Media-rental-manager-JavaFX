@@ -1,0 +1,5 @@
+Album     |Code: 111           |Title: Sahran                 |Num Of Copeis: 10   |Artist: Amr Diab    |Songs: sahran
+Movie     |Code: 12345         |Title: loard of the rings     |Num Of Copeis: 8    |Rating: HR          
+Album     |Code: 123456789     |Title: Sahran                 |Num Of Copeis: 0    |Artist: Amr Diab    |Songs: Sahran
+Game      |Code: 321           |Title: Gta                    |Num Of Copeis: 22   |Weight: 22.00
+

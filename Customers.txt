@@ -1,0 +1,6 @@
+Customer  |ID: 1200100         |Name: Hasan Karakra           |Address: Sinjel     |Plan: UNLIMITED     |MobileNum: 05999999999|Cart: []                           |Received: [111]                    |UNLIMITED
+Customer  |ID: 1200124         |Name: Ahmad Tawafsha          |Address: Sinjel     |Plan: LIMITED       |MobileNum: 0599294569|Cart: []                           |Received: []                       |Value: 15
+Customer  |ID: 1200339         |Name: Salah Tawafsha          |Address: Sinjel     |Plan: UNLIMITED     |MobileNum: 0592485699|Cart: []                           |Received: [111, 12345, 123456789]  |UNLIMITED
+Customer  |ID: 1200445         |Name: Mohammad Foqaha         |Address: Sinjel     |Plan: LIMITED       |MobileNum: 0592485699|Cart: []                           |Received: [123456789]              |Value: 5
+Customer  |ID: 1200466         |Name: Aziza Karakra           |Address: Sinjel     |Plan: LIMITED       |MobileNum: 0599294569|Cart: []                           |Received: []                       |Value: 2
+
